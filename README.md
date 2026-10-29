@@ -49,3 +49,4 @@ Una vez iniciado el servidor, puedes:
 - El proyecto utiliza Expo SDK 58.
 - Se recomienda mantener el dispositivo móvil y el ordenador conectados a la misma red Wi-Fi al utilizar Expo Go.
 - Si aparecen problemas con las dependencias, ejecuta nuevamente `npm install`.
+- Tambien funciona con herramienta scrcpy mediante cable USB.
